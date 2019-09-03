@@ -1,1 +1,1 @@
-Welcome to my gitfile. Please listen to my song
+Welcome to my vimrc. Please listen to my song
